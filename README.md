@@ -9,12 +9,5 @@ class Profil:
     self.origin = "Algerian"
     self.lang = "Python C# C++ C Html css Batch Golang Ruby Java Powershell Shell"
     self.love = "I love algeria, russia, police, muslims"
-```
-
-```python
-class Project:
-  def __init_(self):
-     self.git1 = "https://github.com/RetrO-M/Malware"
-     self.git2 = "https://github.com/RetrO-M/Proxy-Check"
-     self.git3 = "https://github.com/RetrO-M/network-traffic-monitor"
+    self.team = "Unidentifiable"
 ```
