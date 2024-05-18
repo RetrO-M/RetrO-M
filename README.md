@@ -11,7 +11,7 @@
     Welcome to my github.
     <br />
     <br />
-    <a href="https://github.com/RetrO-M/Delta-Grabber/issues">📜 Follow me</a>
+    <a href="https://github.com/RetrO-M/">📜 Follow me</a>
   </p>
 </div>
 
