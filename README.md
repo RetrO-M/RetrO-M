@@ -1,7 +1,7 @@
 <div align="center">
   <kbd>
   <a href="https://github.com/RetrO-M">
-    <img src="src.png" alt="Logo" width="300" height="300">
+    <img src="src2.png" alt="Logo" width="300" height="300">
   </a>
   </kbd>
 
