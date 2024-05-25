@@ -19,7 +19,7 @@
 ```python
 class Profil:
   def __init__(self):
-    self.name = "Defalt"
+    self.name = "zaykali"
     self.origin = "Algerian"
     self.lang = "Python C# C++ C Html css Batch Golang Ruby Java Powershell Shell"
     self.love = "I love algeria, russia, police"
