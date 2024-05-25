@@ -1,7 +1,7 @@
 <div align="center">
   <kbd>
   <a href="https://github.com/RetrO-M">
-    <img src="https://fibladi.com/news/fr/wp-content/uploads/sites/2/2023/01/b7357fae1205e458e7b894cfe7be325b.jpg" alt="Logo" width="300" height="300">
+    <img src="https://fibladi.com/news/fr/wp-content/uploads/sites/2/2023/01/b7357fae1205e458e7b894cfe7be325b.jpg" alt="Logo" width="400" height="300">
   </a>
   </kbd>
 
