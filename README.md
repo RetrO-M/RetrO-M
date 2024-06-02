@@ -1,7 +1,7 @@
 <div align="center">
   <kbd>
   <a href="https://github.com/RetrO-M">
-    <img src="https://fibladi.com/news/fr/wp-content/uploads/sites/2/2023/01/b7357fae1205e458e7b894cfe7be325b.jpg" alt="Logo" width="400" height="250">
+    <img src="https://i.sstatic.net/Gns38.png" alt="Logo" width="400" height="250">
   </a>
   </kbd>
   <h2 align="center">Russia 💙 Algeria</h2>
@@ -13,18 +13,6 @@
     <a href="https://github.com/RetrO-M/">📜 Follow me</a>
   </p>
 </div>
-
----------------------------------------
-
-```python
-class Profil:
-  def __init__(self):
-    self.name = "zaykali"
-    self.origin = "Algerian"
-    self.lang = "Python C# C++ C Html css Batch Golang Ruby Java Powershell Shell"
-    self.love = "I love algeria, russia, police"
-    self.team = "Unidentifiable"
-```
 
 ---------------------------------------
 
