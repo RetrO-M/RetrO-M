@@ -1,7 +1,7 @@
 <div align="center">
   <kbd>
   <a href="https://github.com/RetrO-M">
-    <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" alt="Logo" width="450" height="350">
+    <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" alt="Logo" width="350" height="350">
   </a>
   </kbd>
   
