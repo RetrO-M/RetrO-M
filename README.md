@@ -7,7 +7,7 @@
   
 ---------------------------------------
 
-  <h2 align="center">Russia ❤ Algeria</h2>
+  <h2 align="center">Fatal r00ted</h2>
   
   <p align="center">
     Welcome to my github.
